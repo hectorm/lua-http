@@ -1,5 +1,5 @@
-package = "http"
-version = "scm-0"
+package = "hectorm-fork-http"
+version = "0.3.1-0"
 
 description = {
 	summary = "HTTP library for Lua";
@@ -8,7 +8,8 @@ description = {
 }
 
 source = {
-	url = "git+https://github.com/hectorm/lua-http.git";
+	url = "https://github.com/hectorm/lua-http/archive/v0.3.1.zip";
+	dir = "lua-http-0.3.1";
 }
 
 dependencies = {

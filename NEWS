@@ -1,3 +1,8 @@
+0.3.1 - 2020-08-06
+
+  - http/server: close connection on unhandled internal errors
+
+
 0.3 - 2019-02-13
 
   - Fix incorrect Sec-WebSocket-Protocol negotiation
