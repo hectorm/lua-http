@@ -3,12 +3,12 @@ version = "scm-0"
 
 description = {
 	summary = "HTTP library for Lua";
-	homepage = "https://github.com/daurnimator/lua-http";
+	homepage = "https://github.com/hectorm/lua-http";
 	license = "MIT";
 }
 
 source = {
-	url = "git+https://github.com/daurnimator/lua-http.git";
+	url = "git+https://github.com/hectorm/lua-http.git";
 }
 
 dependencies = {
